@@ -269,5 +269,5 @@ AI/ML Engineer | Data Intern @ Convergent Business Technologies
 1. Fader, P.S., Hardie, B.G.S., & Lee, K.L. (2005). "Counting Your Customers the Easy Way: An Alternative to the Pareto/NBD Model." *Marketing Science*, 24(2), 275–284. http://brucehardie.com/papers/018/fader_et_al_mksc_05.pdf
 2. Tukey, J.W. (1977). *Exploratory Data Analysis*. Addison-Wesley. https://archive.org/details/exploratorydataa0000tuke_7616
 3. Decile (2023). *Ecommerce Benchmarking Guide*. https://decile.com
-4. Instacart (2017). *The Instacart Online Grocery Shopping Dataset 2017*. https://www.kaggle.com/competitions/instacart-market-basket-analysis
+4. Instacart (2017). *The Instacart Online Grocery Shopping Dataset 2017*. https://www.kaggle.com/datasets/yasserh/instacart-online-grocery-basket-analysis-dataset 
 
